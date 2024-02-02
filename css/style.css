@@ -23,20 +23,15 @@ header {
   font-size: 24px;
 }
 h1 {
-  font-size: 36px;
   text-align: center;
   color: #421c12;
-  margin-bottom: 18px;
+  margin-bottom: 26px;
 }
-h2 {
-  text-align: center;
-  color: #421c12;
-  margin-bottom: 30px;
-}
+
 .subtitle1 {
   margin-bottom: 0px;
 }
-h3 {
+h2 {
   text-align: center;
   color: #421c12;
   margin: 15px 0 15px;
